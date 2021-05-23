@@ -1,0 +1,16 @@
+.list-item{
+    border: 1px #eee solid;
+    border-radius: 10px ;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px;
+    align-items: center;
+}
+.title{
+    color: black;
+}
+
+.list-item-info > span{
+    padding: 0px 15px;
+}
